@@ -1,6 +1,5 @@
 # Dashboard de Análise de Dados - Venda de Produtos 📊
 
-![Dashboard de Vendas](https://tinypic.host/image/DASH-VENDAS-1.3DUKUf)
 
 ## Descrição
 
