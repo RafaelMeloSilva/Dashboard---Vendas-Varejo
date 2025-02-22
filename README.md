@@ -27,11 +27,6 @@ O objetivo deste dashboard é fornecer uma visão abrangente e interativa das ve
 - **Excel**
 - **Power BI**
 
-## Objetivo
-
-O objetivo deste dashboard é fornecer uma visão abrangente e interativa das vendas de produtos, permitindo a identificação de tendências, avaliação de desempenho e suporte à tomada de decisões estratégicas para o negócio.
-
-
 Visualização: Gráficos e tabelas no Power BI.
 
 Documentação: Registro de etapas e decisões.
@@ -41,5 +36,4 @@ Excel
 
 Power BI
 
-## Objetivo
-O objetivo deste dashboard é fornecer uma visão abrangente e interativa das vendas de produtos, permitindo a identificação de tendências, avaliação de desempenho e suporte à tomada de decisões estratégicas para o negócio.
+
