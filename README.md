@@ -27,13 +27,5 @@ O objetivo deste dashboard é fornecer uma visão abrangente e interativa das ve
 - **Excel**
 - **Power BI**
 
-Visualização: Gráficos e tabelas no Power BI.
-
-Documentação: Registro de etapas e decisões.
-
-Ferramentas Utilizadas
-Excel
-
-Power BI
 
 
