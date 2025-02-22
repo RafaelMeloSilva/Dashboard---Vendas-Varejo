@@ -1,9 +1,7 @@
 # Dashboard de Análise de Dados - Venda de Produtos 📊
 
+O objetivo deste dashboard é fornecer uma visão abrangente e interativa das vendas de produtos, permitindo a identificação de tendências, avaliação de desempenho e suporte à tomada de decisões estratégicas para o negócio.
 
-## Descrição
-
-Este dashboard foi criado para fornecer insights detalhados sobre a venda de produtos, utilizando Excel e Power BI.
 
 ## Funcionalidades Principais
 
